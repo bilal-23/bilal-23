@@ -6,7 +6,7 @@
  
  <h4>   
     
-- I'm a 2<sup>nd</sup> Year ECE Student,and **Web Developer**.
+- 2<sup>nd</sup> Year ECE Student.
 - Currently Pursuing **B.Tech From **Medicaps University** Indore.**
 
 <h4/> 
