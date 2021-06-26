@@ -2,7 +2,7 @@
  ![](https://komarev.com/ghpvc/?username=bilal-23)<br/>
  
  
- ### <h2 align="center">Hey<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm front-end developer from <mark>INDIA<mark/>
+ ### <h2 align="center">Hey<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm a front-end developer from <mark>INDIA<mark/>
  
  <h4>   
     
