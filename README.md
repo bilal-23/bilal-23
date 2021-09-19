@@ -1,7 +1,7 @@
 # I am Bilal !<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><br/>
  ![](https://komarev.com/ghpvc/?username=bilal-23)<br/>
  
- I'm Bilal Mansuri, currently pusruing B.Tech in Electronics and Communication Engineering from [Medi-caps University](https://komarev.com/ghpvc/?username=bilal-23). I'm a frontend developer and an aspiring full stack developer. I'm also a UI/UX enthusiast and also always interested to work on innovative ideas/projects.<br/>
+ I'm Mohammad Bilal Mansuri, currently pusruing B.Tech in Electronics and Communication Engineering from [Medi-caps University](https://komarev.com/ghpvc/?username=bilal-23). I'm a frontend developer and an aspiring full stack developer. I'm also a UI/UX enthusiast and also always interested to work on innovative ideas/projects.<br/>
  
  <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
