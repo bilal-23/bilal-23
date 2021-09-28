@@ -25,7 +25,7 @@
 
 ![React](https://img.shields.io/badge/-React%20JS-007ACC?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
-![Next](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=next&logoColor=ffffff)
+![Next](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-%23000000?style=for-the-badge&logo=material-ui&logoColor=ffffff)
 
