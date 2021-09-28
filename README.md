@@ -42,6 +42,8 @@
 ![Vercel](https://img.shields.io/badge/-vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+
 <br/>
 <br/>
 
