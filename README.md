@@ -3,7 +3,7 @@
  
  I'm Mohammad Bilal Mansuri, currently pusruing B.Tech in Electronics and Communication Engineering from [Medi-caps University](https://komarev.com/ghpvc/?username=bilal-23). I'm a frontend developer and an aspiring full stack developer. I'm also a UI/UX enthusiast and also always interested to work on innovative ideas/projects.<br/>
  
- I'm currently looking for Frontend(react) internship.
+
  <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/bilalmansuri"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
