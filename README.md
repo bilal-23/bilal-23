@@ -1,7 +1,11 @@
 # I am Bilal !<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><br/>
  ![](https://komarev.com/ghpvc/?username=bilal-23)<br/>
  
- I'm Mohammad Bilal Mansuri, currently pusruing B.Tech in Electronics and Communication Engineering from [Medi-caps University](https://komarev.com/ghpvc/?username=bilal-23). I'm a frontend developer and an aspiring full stack developer. I'm also a UI/UX enthusiast and also always interested to work on innovative ideas/projects.<br/>
+Hello! I'm Mohammad Bilal Mansuri, a self-taught front-end developer and an ECE student.
+
+I'm passionate about exploring the field of web design and development in my career, and I have a strong interest in both front-end and back-end development. I have experience with a variety of languages and technologies, including HTML, CSS, Javascript, Typescript, React.js, Next.js, Bootstrap 4, tailwind css, SCSS, Git, and hosting platforms like Netlify, Vercel, and Github pages.
+
+In my current role as a front-end developer intern at Zupay, I am the sole front-end developer responsible for handling all of the company's web development needs. I have been able to put my skills to the test by creating responsive websites, implementing new features using React and Next.js, and working with a variety of design tools. I am always looking to learn more and improve my abilities, and I am excited to see where my career in web development takes me.<br/>
  
 
  <h2 align="center">📫 Reach out to me on</h2>
