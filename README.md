@@ -35,7 +35,7 @@ In my current role as a front-end developer intern at Zupay, where I have been a
 ![Material UI](https://img.shields.io/badge/-Material%20UI-%23000000?style=for-the-badge&logo=material-ui&logoColor=ffffff)
 ![React Redux](https://img.shields.io/badge/-React%20Redux-764abc?style=for-the-badge&logo=redux&logoColor=ffffff)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764abc?style=for-the-badge&logo=redux&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-22D3EE?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
+<!-- ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-22D3EE?style=for-the-badge&logo=tailwindcss&logoColor=ffffff) -->
 ![React Router](https://img.shields.io/badge/-react%20router-2D2D2D?style=for-the-badge&logo=reactrouter&logoColor=ffffff)
 ![Next Auth](https://img.shields.io/badge/-Next%20Auth-1786fb?style=for-the-badge&logo=nextauthjs&logoColor=ffffff)
 
