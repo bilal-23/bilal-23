@@ -14,7 +14,6 @@ I'm passionate about exploring the field of web design and development in my car
   <a href="mailto:mansuribilal101@gmail.com?subject=Hello%20Bilal,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p><br/>
 
-[![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=bilal-23&theme=xcode)](https://git.io/bilal-23) <br/>
 
 ## ⚡ Technologies
 
